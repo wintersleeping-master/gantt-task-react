@@ -240,7 +240,7 @@ export const Calendar: React.FC<CalendarProps> = ({
           <div>
             {bottomValue2}
           </div>
-        <div>
+        </div>
       );
       if (
         i + 1 !== dates.length &&
