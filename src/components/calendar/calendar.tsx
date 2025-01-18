@@ -237,9 +237,9 @@ export const Calendar: React.FC<CalendarProps> = ({
           >
             {bottomValue}
           </text>
-          <div>
+          <text>
             {bottomValue2}
-          </div>
+          </text>
         </div>
       );
       if (
